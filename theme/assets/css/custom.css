@@ -18,6 +18,8 @@
 
 .header .btn-navbar {  
   background-color: #b4dbeb !important;
+  height: 26px;
+  width: 26px;
 } 
 
 .header .nav .dropdown-toggle:hover, 
@@ -46,4 +48,13 @@
 
 .page-sidebar {
     border-top: 1px solid #e2e2e2 !important;
+}
+
+@media (max-width:979px) { 
+  .page-sidebar {
+      border-top: 0px !important;
+  }
+  .navbar-fixed-top {
+	margin-bottom: 0px !important;
+  }
 }
