@@ -7,6 +7,10 @@
   color: black;
 }
 
+.header .nav > li > a:hover {
+  color: gray;
+}
+
 .header .navbar-inner {
   background-image: none !important;
   background-color: white !important;
