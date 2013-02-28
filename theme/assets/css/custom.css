@@ -17,7 +17,7 @@
 }
 
 .header .btn-navbar {  
-  background-color: #434343 !important;
+  background-color: #b4dbeb !important;
 } 
 
 .header .nav .dropdown-toggle:hover, 
@@ -37,4 +37,8 @@
 		margin-left: 26px !important;
 		margin-right: 10px !important;
 	}
+}
+
+.page-sidebar > ul > li.active > a{
+  background: #b4dbeb !important;
 }
