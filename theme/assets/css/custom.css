@@ -43,3 +43,7 @@
   background: #b4dbeb !important;
   color: black !important;
 }
+
+.page-sidebar {
+    border-top: 1px solid #e2e2e2 !important;
+}
