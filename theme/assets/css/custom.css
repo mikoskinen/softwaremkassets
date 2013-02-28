@@ -1,0 +1,36 @@
+.header .nav > li {
+  margin: 0px;
+  padding: 0px;
+}
+
+.header .nav > li > a {
+  color: black;
+}
+
+.header .navbar-inner {
+  background-image: none !important;
+  background-color: white !important;
+}
+
+.header .btn-navbar {  
+  background-color: #434343 !important;
+} 
+
+.header .nav .dropdown-toggle:hover, 
+.header .nav .dropdown.open .dropdown-toggle {
+  background-color: #4f4f4f !important;
+}
+
+.header .nav li.dropdown .dropdown-toggle i {
+  color: #808080 !important;
+}
+
+@media (max-width: 767px) { 
+	/***
+	Page header
+	***/
+	.header .navbar-inner .container-fluid {
+		margin-left: 26px !important;
+		margin-right: 10px !important;
+	}
+}
