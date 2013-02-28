@@ -41,4 +41,5 @@
 
 .page-sidebar > ul > li.active > a{
   background: #b4dbeb !important;
+  color: black !important;
 }
