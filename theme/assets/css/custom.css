@@ -67,3 +67,6 @@
 .dashboard-stat.custom{
 	background-color: rgb(128, 202, 233);
 }
+.k-tooltip {
+  margin-left: -100px;
+}
