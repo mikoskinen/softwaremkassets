@@ -70,3 +70,6 @@
 .k-tooltip {
   margin-left: -100px;
 }
+.dashboard-stat.customred{
+	background-color: rgb(233, 128, 128);
+}
