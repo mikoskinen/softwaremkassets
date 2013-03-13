@@ -73,3 +73,6 @@
 .dashboard-stat.customred{
 	background-color: rgb(233, 128, 128);
 }
+.dashboard-stat.customgreen{
+	background-color: rgb(132, 233, 128);
+}
