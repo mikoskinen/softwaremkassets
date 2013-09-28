@@ -99,6 +99,9 @@
     }
 }
 
+.headingarea {
+	margin-top: 100px !important;
+}
 .topheading h1 {
     font-size: 25px !important;
 }
