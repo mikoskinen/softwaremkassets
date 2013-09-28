@@ -63,7 +63,7 @@
 }
 #smallPhone
 {
-    z-index: -1;
+    z-index: 0;
     position: relative;
     margin-top: -459px;
     background: transparent url("../phonelayouts/focuss.png") no-repeat 100% 100%;
