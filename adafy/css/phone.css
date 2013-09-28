@@ -100,5 +100,8 @@
 }
 
 .topheading h1 {
+    font-size: 25px !important;
+}
+.topheading h2 {
     font-size: 60px !important;
 }
